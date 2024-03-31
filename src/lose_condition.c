@@ -5,7 +5,7 @@
 ** lose_condition
 */
 
-#include "my.h"
+#include "../include/my.h"
 
 int if_num(char c, int x)
 {

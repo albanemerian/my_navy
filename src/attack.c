@@ -5,7 +5,7 @@
 ** attack
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 
 char **add_cross(char **my_board, navy_t *na)
 {

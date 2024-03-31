@@ -5,7 +5,7 @@
 ** main_extended
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 
 static void last_display(navy_t *na, char **board)
 {

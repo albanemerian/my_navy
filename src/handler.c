@@ -5,7 +5,7 @@
 ** handler
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 
 void counter(int sign)
 {

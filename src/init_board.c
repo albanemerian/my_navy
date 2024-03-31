@@ -5,7 +5,7 @@
 ** init board
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 
 char **initboard(void)
 {

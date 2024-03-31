@@ -5,7 +5,7 @@
 ** check_file
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 #include <stdbool.h>
 
 bool check_lines(char ch, char min, char max)

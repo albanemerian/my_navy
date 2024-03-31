@@ -20,23 +20,23 @@ LIBS	=	-L./ -lmy
 TEST_LIBS	=	-L./ -lmy
 
 SRC		=	main.c				\
-			helper.c 			\
-			init_board.c		\
-			check_file.c		\
-			attack.c			\
-			maps_attack.c		\
-			lose_condition.c	\
-			main_extended.c		\
-			handler.c			\
-			send_pos.c
+			src/helper.c 			\
+			src/init_board.c		\
+			src/check_file.c		\
+			src/attack.c			\
+			src/maps_attack.c		\
+			src/lose_condition.c	\
+			src/main_extended.c		\
+			src/handler.c			\
+			src/send_pos.c
 
-SRC_TEST	=	helper.c 		\
-				init_board.c	\
-				check_file.c	\
-				attack.c		\
-				maps_attack.c	\
-				handler.c		\
-				main_extended.c
+SRC_TEST	=	src/helper.c 		\
+				src/init_board.c	\
+				src/check_file.c	\
+				src/attack.c		\
+				src/maps_attack.c	\
+				src/handler.c		\
+				src/main_extended.c
 
 TEST	=	tests/test_printf.c	\
 			tests/test_main.c

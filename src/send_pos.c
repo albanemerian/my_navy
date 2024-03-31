@@ -5,7 +5,7 @@
 ** send_pos
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 
 void send_letter(char na)
 {

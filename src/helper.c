@@ -5,7 +5,7 @@
 ** helper
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 
 g_t g = {0};
 

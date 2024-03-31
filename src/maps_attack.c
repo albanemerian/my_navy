@@ -5,7 +5,7 @@
 ** maps_attack
 */
 
-#include "include/navy.h"
+#include "../include/navy.h"
 
 char **upt_board(char **my_board, navy_t *na)
 {
